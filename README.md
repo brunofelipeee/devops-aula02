@@ -1,4 +1,4 @@
 # devops-aula02
-# Crhis Pratt
+# Chris Pratt
 # Robert Downey Jr
 # ChIS Evans
